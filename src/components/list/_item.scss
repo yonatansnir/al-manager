@@ -1,0 +1,47 @@
+.id{
+    width: 4%;
+}
+.fullname{
+    width: 20%;
+    @media #{$break-point1}{
+        width: 93%;
+        font-weight: 700;
+        margin-bottom: 5px;
+    }
+}
+.building{
+    width: 30%;
+    @media #{$break-point1}{
+        display: 10%;
+        display: none;
+    }
+}
+.apartment{
+    width: 10%;
+    @media #{$break-point1}{
+        width: 15%;
+        display: none;
+    }
+}
+.cellphone{
+    width: 20%;
+    @media #{$break-point1}{
+        width: 40%;
+        display: none;
+    }
+}
+.phone{
+    width: 10%;
+    @media #{$break-point1}{
+        width: 15%;
+        display: none;
+    }
+}
+.info-open{
+    display: block;
+    width: 100%;
+    padding: 10px;
+}
+.info-close{
+    display: none;
+}
