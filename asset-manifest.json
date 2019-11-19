@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.5da1929f.chunk.css",
-    "main.js": "/my-app/static/js/main.1ad07ce5.chunk.js",
-    "main.js.map": "/my-app/static/js/main.1ad07ce5.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.3673068e.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.3673068e.js.map",
-    "static/js/2.6ab9199b.chunk.js": "/my-app/static/js/2.6ab9199b.chunk.js",
-    "static/js/2.6ab9199b.chunk.js.map": "/my-app/static/js/2.6ab9199b.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.aa3b2fdbbf8e15d6abdd563769a6de39.js": "/my-app/precache-manifest.aa3b2fdbbf8e15d6abdd563769a6de39.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.5da1929f.chunk.css.map": "/my-app/static/css/main.5da1929f.chunk.css.map"
+    "main.css": "/al-manager/static/css/main.5da1929f.chunk.css",
+    "main.js": "/al-manager/static/js/main.796b95b7.chunk.js",
+    "main.js.map": "/al-manager/static/js/main.796b95b7.chunk.js.map",
+    "runtime-main.js": "/al-manager/static/js/runtime-main.96e6b165.js",
+    "runtime-main.js.map": "/al-manager/static/js/runtime-main.96e6b165.js.map",
+    "static/js/2.6ab9199b.chunk.js": "/al-manager/static/js/2.6ab9199b.chunk.js",
+    "static/js/2.6ab9199b.chunk.js.map": "/al-manager/static/js/2.6ab9199b.chunk.js.map",
+    "index.html": "/al-manager/index.html",
+    "precache-manifest.e91316a06da4b9b55f569ec34173306b.js": "/al-manager/precache-manifest.e91316a06da4b9b55f569ec34173306b.js",
+    "service-worker.js": "/al-manager/service-worker.js",
+    "static/css/main.5da1929f.chunk.css.map": "/al-manager/static/css/main.5da1929f.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3673068e.js",
+    "static/js/runtime-main.96e6b165.js",
     "static/js/2.6ab9199b.chunk.js",
     "static/css/main.5da1929f.chunk.css",
-    "static/js/main.1ad07ce5.chunk.js"
+    "static/js/main.796b95b7.chunk.js"
   ]
 }
