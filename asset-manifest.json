@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/al-manager/static/css/main.5da1929f.chunk.css",
-    "main.js": "/al-manager/static/js/main.796b95b7.chunk.js",
-    "main.js.map": "/al-manager/static/js/main.796b95b7.chunk.js.map",
+    "main.css": "/al-manager/static/css/main.84666601.chunk.css",
+    "main.js": "/al-manager/static/js/main.4ba0e1a5.chunk.js",
+    "main.js.map": "/al-manager/static/js/main.4ba0e1a5.chunk.js.map",
     "runtime-main.js": "/al-manager/static/js/runtime-main.96e6b165.js",
     "runtime-main.js.map": "/al-manager/static/js/runtime-main.96e6b165.js.map",
-    "static/js/2.6ab9199b.chunk.js": "/al-manager/static/js/2.6ab9199b.chunk.js",
-    "static/js/2.6ab9199b.chunk.js.map": "/al-manager/static/js/2.6ab9199b.chunk.js.map",
+    "static/js/2.d55fd861.chunk.js": "/al-manager/static/js/2.d55fd861.chunk.js",
+    "static/js/2.d55fd861.chunk.js.map": "/al-manager/static/js/2.d55fd861.chunk.js.map",
     "index.html": "/al-manager/index.html",
-    "precache-manifest.e91316a06da4b9b55f569ec34173306b.js": "/al-manager/precache-manifest.e91316a06da4b9b55f569ec34173306b.js",
+    "precache-manifest.e60b56775ee4ee4b235d9bf8c9c7089b.js": "/al-manager/precache-manifest.e60b56775ee4ee4b235d9bf8c9c7089b.js",
     "service-worker.js": "/al-manager/service-worker.js",
-    "static/css/main.5da1929f.chunk.css.map": "/al-manager/static/css/main.5da1929f.chunk.css.map"
+    "static/css/main.84666601.chunk.css.map": "/al-manager/static/css/main.84666601.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.96e6b165.js",
-    "static/js/2.6ab9199b.chunk.js",
-    "static/css/main.5da1929f.chunk.css",
-    "static/js/main.796b95b7.chunk.js"
+    "static/js/2.d55fd861.chunk.js",
+    "static/css/main.84666601.chunk.css",
+    "static/js/main.4ba0e1a5.chunk.js"
   ]
 }
