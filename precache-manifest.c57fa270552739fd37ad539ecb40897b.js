@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76987059c759d06d81cce30337998d19",
+    "revision": "ba72031ce0bb78dccc50aaffd135e06f",
     "url": "/al-manager/index.html"
   },
   {
-    "revision": "09030c4b44357601f571",
+    "revision": "92d3426b216f8c658b09",
     "url": "/al-manager/static/css/main.84666601.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/al-manager/static/js/2.d55fd861.chunk.js"
   },
   {
-    "revision": "09030c4b44357601f571",
-    "url": "/al-manager/static/js/main.c85d467c.chunk.js"
+    "revision": "92d3426b216f8c658b09",
+    "url": "/al-manager/static/js/main.340fb487.chunk.js"
   },
   {
     "revision": "89a76e2a80cc5776e652",
