@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/al-manager/static/css/main.84666601.chunk.css",
-    "main.js": "/al-manager/static/js/main.dd8257f4.chunk.js",
-    "main.js.map": "/al-manager/static/js/main.dd8257f4.chunk.js.map",
+    "main.js": "/al-manager/static/js/main.f22ecb64.chunk.js",
+    "main.js.map": "/al-manager/static/js/main.f22ecb64.chunk.js.map",
     "runtime-main.js": "/al-manager/static/js/runtime-main.96e6b165.js",
     "runtime-main.js.map": "/al-manager/static/js/runtime-main.96e6b165.js.map",
     "static/js/2.d55fd861.chunk.js": "/al-manager/static/js/2.d55fd861.chunk.js",
     "static/js/2.d55fd861.chunk.js.map": "/al-manager/static/js/2.d55fd861.chunk.js.map",
     "index.html": "/al-manager/index.html",
-    "precache-manifest.8ae08b61c119c5e792d4826be5100e52.js": "/al-manager/precache-manifest.8ae08b61c119c5e792d4826be5100e52.js",
+    "precache-manifest.3e329d932ed746677b8eee51b5ca07bf.js": "/al-manager/precache-manifest.3e329d932ed746677b8eee51b5ca07bf.js",
     "service-worker.js": "/al-manager/service-worker.js",
     "static/css/main.84666601.chunk.css.map": "/al-manager/static/css/main.84666601.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.96e6b165.js",
     "static/js/2.d55fd861.chunk.js",
     "static/css/main.84666601.chunk.css",
-    "static/js/main.dd8257f4.chunk.js"
+    "static/js/main.f22ecb64.chunk.js"
   ]
 }
